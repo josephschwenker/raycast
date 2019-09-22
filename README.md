@@ -1,2 +1,4 @@
 # raycast
-Curvilinear raycasting engine built during high school
+Curvilinear raycasting engine that I built during high school
+
+https://josephschwenker.github.io/raycast/
